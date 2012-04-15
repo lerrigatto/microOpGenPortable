@@ -1,0 +1,14 @@
+MicroOpGen
+[http://www.dis.uniroma1.it/~ciciani/microopgen/]
+
+Considerando che non mi abbasserò mai ad usare windows per programmare sto cercando di fare un porting di MicroOpGen.
+
+Attualmente per il run c'è bisogno di importare il progetto dentro netbeans e, dopo il build, copiare la cartella "microOpGen" dentro la cartella "dist".
+
+Non funziona l'animazione.
+
+TODO:
+1- Far funzionare l'animazione
+2- Generare un jar decente (che contenga tutti file necessari e le librerie).
+
+Ogni contributo è più che benvenuto.
