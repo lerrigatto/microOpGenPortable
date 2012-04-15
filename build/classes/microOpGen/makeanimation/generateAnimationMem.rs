@@ -1,0 +1,2 @@
+microOpGen.makeanimation.AnimationExceptionMem
+microOpGen.makeanimation.generateAnimationMem

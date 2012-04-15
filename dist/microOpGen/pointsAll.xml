@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<LeoWeb>
+ <Points W="0" H="0" X="6" Y="7" color="255,0,0" type="line">nop</Points>
+ <Points W="2" H="15" X="358" Y="172" color="255,0,0" type="line">ir1623</Points>
+ <Points W="10" H="1" X="345" Y="175" color="255,0,0" type="line">ir1623-2</Points>
+ <Points W="1" H="9" X="345" Y="167" color="255,0,0" type="line">ir1623-3</Points>
+ <Points W="106" H="1" X="6" Y="22" color="255,0,0" type="line">a1</Points>
+ <Points W="1" H="19" X="113" Y="23" color="255,0,0" type="line" >a2</Points>
+ <Points W="31" H="1" X="50" Y="50" color="255,0,0" type="line">a3</Points>
+ <Points W="32" H="1" X="7" Y="50" color="255,0,0" type="line">a4</Points>
+ <Points W="1" H="14" X="112" Y="61" color="255,0,0" type="line">a5</Points>
+ <Points W="1" H="16" X="45" Y="57" color="255,0,0" type="line">a6</Points>
+ <Points W="42" H="1" X="116" Y="95" color="255,0,0" type="line">a7</Points>
+ <Points W="1" H="12" X="110" Y="89" color="255,0,0" type="line">a8</Points>
+ <Points W="1" H="5" X="115" Y="90" color="255,0,0" type="line">a9</Points>
+ <Points W="1" H="12" X="46" Y="89" color="255,0,0" type="line">a10</Points>
+ <Points W="1" H="4" X="42" Y="90" color="255,0,0" type="line">a11</Points>
+ <Points W="22" H="1" X="19" Y="94" color="255,0,0" type="line">a12</Points>
+ <Points W="127" H="1" X="46" Y="101" color="255,0,0" type="line">a13</Points>
+ <Points W="1" H="78" X="174" Y="101" color="255,0,0" type="line">a14</Points>
+ <Points W="30" H="1" X="175" Y="179" color="255,0,0" type="line">a15</Points>
+ <Points W="1" H="210" X="19" Y="95" color="255,0,0" type="line">a16</Points>
+ <Points W="1" H="210" X="158" Y="95" color="255,0,0" type="line">a17</Points>
+ <Points W="104" H="1" X="6" Y="107" color="255,0,0" type="line">a18</Points>
+ <Points W="1" H="19" X="111" Y="108" color="255,0,0" type="line">a19</Points>
+ <Points W="31" H="1" X="50" Y="135" color="255,0,0" type="line">a20</Points>
+ <Points W="32" H="1" X="7" Y="135" color="255,0,0" type="line">a21</Points>
+ <Points W="1" H="16" X="45" Y="142" color="255,0,0" type="line">a22</Points>
+ <Points W="1" H="7" X="43" Y="173" color="255,0,0" type="line">a23</Points>
+ <Points W="23" H="1" X="19" Y="180" color="255,0,0" type="line">a24</Points>
+ <Points W="1" H="15" X="47" Y="174" color="255,0,0" type="line">a25</Points>
+ <Points W="1" H="14" X="112" Y="146" color="255,0,0" type="line">a26</Points>
+ <Points W="1" H="5" X="115" Y="175" color="255,0,0" type="line">a27</Points>
+ <Points W="42" H="1" X="116" Y="180" color="255,0,0" type="line">a28</Points>
+ <Points W="1" H="14" X="110" Y="174" color="255,0,0" type="line">a29</Points>
+ <Points W="95" H="1" X="110" Y="189" color="255,0,0" type="line">a30</Points>
+ <Points W="158" H="1" X="47" Y="189" color="255,0,0" type="line">a31</Points>
+ <Points W="105" H="1" X="6" Y="208" color="255,0,0" type="line">a32</Points>
+ <Points W="1" H="19" X="113" Y="209" color="255,0,0" type="line">a33</Points>
+ <Points W="36" H="1" X="5" Y="236" color="255,0,0" type="line">a34</Points>
+ <Points W="32" H="1" X="51" Y="237" color="255,0,0" type="line">a35</Points>
+ <Points W="1" H="16" X="46" Y="243" color="255,0,0" type="line">a36</Points>
+ <Points W="1" H="14" X="114" Y="247" color="255,0,0" type="line">a37</Points>
+ <Points W="26" H="1" X="18" Y="280" color="255,0,0" type="line">a38</Points>
+ <Points W="1" H="13" X="49" Y="276" color="255,0,0" type="line">a39</Points>
+ <Points W="1" H="13" X="112" Y="276" color="255,0,0" type="line">a40</Points>
+ <Points W="1" H="6" X="116" Y="275" color="255,0,0" type="line">a41</Points>
+ <Points W="42" H="1" X="116" Y="281" color="255,0,0" type="line">a42</Points>
+ <Points W="63" H="1" X="49" Y="289" color="255,0,0" type="line">a43</Points>
+ <Points W="56" H="1" X="112" Y="289" color="255,0,0" type="line">a44</Points>
+ <Points W="37" H="1" X="185" Y="292" color="255,0,0" type="line">a45</Points>
+ <Points W="24" H="1" X="168" Y="289" color="255,0,0" type="line">a46</Points>
+ <Points W="1" H="36" X="192" Y="253" color="255,0,0" type="line">a47</Points>
+ <Points W="13" H="1" X="192" Y="253" color="255,0,0" type="line">a48</Points>
+ <Points W="1" H="9" X="345" Y="167" color="255,0,0" type="line">ir1</Points>
+ <Points W="10" H="1" X="345" Y="176" color="255,0,0" type="line">ir2</Points>
+ <Points W="1" H="7" X="359" Y="181" color="255,0,0" type="line">ir3</Points>
+ <Points W="1" H="17" X="230" Y="7" color="255,0,0" type="line">c1</Points>
+ <Points W="19" H="1" X="205" Y="30" color="255,0,0" type="line">c2</Points>
+ <Points W="1" H="20" X="230" Y="34" color="255,0,0" type="line">c3</Points>
+ <Points W="1" H="27" X="230" Y="76" color="255,0,0" type="line">c4</Points>
+ <Points W="19" H="1" X="178" Y="65" color="255,0,0" type="line">c5</Points>
+ <Points W="1" H="14" X="210" Y="75" color="255,0,0" type="line">c6</Points>
+ <Points W="1" H="97" X="280" Y="6" color="255,0,0" type="line">c7</Points>
+ <Points W="50" H="1" X="230" Y="103" color="255,0,0" type="line">c8</Points>
+ <Points W="1" H="34" X="349" Y="6" color="255,0,0" type="line">e1</Points>
+ <Points W="12" H="1" X="306" Y="50" color="255,0,0" type="line">e2</Points>
+ <Points W="1" H="13" X="373" Y="62" color="255,0,0" type="line">e3</Points>
+ <Points W="12" H="1" X="358" Y="89" color="255,0,0" type="line">e4</Points>
+ <Points W="1" H="9" X="384" Y="107" color="255,0,0" type="line">e5</Points>
+ <Points W="12" H="1" X="366" Y="120" color="255,0,0" type="line">e6</Points>
+ <Points W="1" H="16" X="421" Y="107" color="255,0,0" type="line">e7</Points>
+ <Points W="1" H="46" X="385" Y="126" color="255,0,0" type="line">e8</Points>
+ <Points W="43" H="1" X="366" Y="134" color="255,0,0" type="line">e9</Points>
+ <Points W="220" H="1" X="358" Y="171" color="255,0,0" type="bus">e10</Points>
+ <Points W="1" H="10" X="447" Y="6" color="255,0,0" type="line">f1</Points>
+ <Points W="12" H="1" X="480" Y="29" color="255,0,0" type="line">f2</Points>
+ <Points W="1" H="4" X="419" Y="49" color="255,0,0" type="line">f2a</Points>
+ <Points W="8" H="1" X="423" Y="57" color="255,0,0" type="line">f2b</Points>
+ <Points W="1" H="6" X="419" Y="61" color="255,0,0" type="line">f2c</Points>
+ <Points W="1" H="4" X="454" Y="39" color="255,0,0" type="line">f3</Points>
+ <Points W="20" H="1" X="454" Y="43" color="255,0,0" type="line">f4</Points>
+ <Points W="36" H="1" X="474" Y="43" color="255,0,0" type="line">f5</Points>
+ <Points W="12" H="1" X="514" Y="89" color="255,0,0" type="line">f6</Points>
+ <Points W="1" H="11" X="501" Y="106" color="255,0,0" type="line">f7</Points>
+ <Points W="1" H="16" X="462" Y="107" color="255,0,0" type="line">f8</Points>
+ <Points W="1" H="45" X="501" Y="127" color="255,0,0" type="line">f9</Points>
+ <Points W="102" H="1" X="475" Y="133" color="255,0,0" type="bus">f10</Points>
+ <Points W="1" H="11" X="443" Y="143" color="255,0,0" type="line">f11</Points>
+ <Points W="12" H="1" X="449" Y="157" color="255,0,0" type="line">f12</Points>
+ <Points W="1" H="8" X="443" Y="164" color="255,0,0" type="line">f13</Points>
+ <Points W="174" H="1" X="405" Y="171" color="255,0,0" type="bus">f14</Points>
+ <Points W="220" H="1" X="358" Y="171" color="255,0,0" type="bus">f14a</Points>
+ <Points W="78" H="1" X="501" Y="171" color="255,0,0" type="bus">f14b</Points>
+ <Points W="194" H="1" X="385" Y="171" color="255,0,0" type="bus">f14c</Points>
+ <Points W="1" H="43" X="405" Y="173" color="255,0,0" type="line">f16</Points>
+ <Points W="29" H="1" X="376" Y="216" color="255,0,0" type="line">f17</Points>
+ <Points W="23" H="1" X="332" Y="198" color="255,0,0" type="line">f18</Points>
+ <Points W="23" H="1" X="333" Y="238" color="255,0,0" type="line">f19</Points>
+ <Points W="1" H="33" X="366" Y="251" color="255,0,0" type="line">f19a</Points>
+ <Points W="9" H="1" X="278" Y="189" color="255,0,0" type="line">f20</Points>
+ <Points W="9" H="1" X="278" Y="216" color="255,0,0" type="line">f21</Points>
+ <Points W="9" H="1" X="278" Y="246" color="255,0,0" type="line">f22</Points>
+ <Points W="1" H="4" X="445" Y="49" color="255,0,0" type="line">f4a</Points>
+ <Points W="8" H="1" X="451" Y="57" color="255,0,0" type="line">f4b</Points>
+ <Points W="10" H="1" X="478" Y="58" color="255,0,0" type="line">fbb</Points>
+ <Points W="1" H="9" X="474" Y="44" color="255,0,0" type="line">fba</Points>
+ <Points W="1" H="6" X="475" Y="62" color="255,0,0" type="line">fbc</Points>
+ <Points W="1" H="5" X="445" Y="62" color="255,0,0" type="line">f4c</Points>
+ <Points W="16" H="1" X="430" Y="68" color="255,0,0" type="line">f4d</Points>
+ <Points W="1" H="8" X="429" Y="67" color="255,0,0" type="line">f5b</Points>
+ <Points W="82" H="1" X="393" Y="68" color="255,0,0" type="line">f5c</Points>
+ <Points W="1" H="31" X="510" Y="43" color="255,0,0" type="line">f5a</Points>
+ <Points W="50" H="1" X="579" Y="6" color="255,0,0" type="line">b1</Points>
+ <Points W="1" H="7" X="629" Y="7" color="255,0,0" type="line">b2</Points>
+ <Points W="16" H="1" X="607" Y="20" color="255,0,0" type="line">b3</Points>
+ <Points W="1" H="9" X="629" Y="24" color="255,0,0" type="line">b4</Points>
+ <Points W="19" H="1" X="630" Y="33" color="255,0,0" type="line">b5</Points>
+ <Points W="17" H="1" X="648" Y="33" color="255,0,0" type="line">b6</Points>
+ <Points W="1" H="12" X="648" Y="34" color="255,0,0" type="line">b6a</Points>
+ <Points W="6" H="1" X="610" Y="57" color="255,0,0" type="line">b6b</Points>
+ <Points W="1" H="8" X="665" Y="25" color="255,0,0" type="line">b7</Points>
+ <Points W="16" H="1" X="670" Y="20" color="255,0,0" type="line">b8</Points>
+ <Points W="1" H="7" X="665" Y="7" color="255,0,0" type="line">b9</Points>
+ <Points W="47" H="1" X="665" Y="7" color="255,0,0" type="line">b10</Points>
+ <Points W="1" H="36" X="713" Y="7" color="255,0,0" type="line">b11</Points>
+ <Points W="1" H="36" X="713" Y="43" color="255,0,0" type="line">b12</Points>
+ <Points W="22" H="1" X="690" Y="79" color="255,0,0" type="line">b13</Points>
+ <Points W="1" H="15" X="686" Y="83" color="255,0,0" type="line">b14</Points>
+ <Points W="33" H="1" X="648" Y="78" color="255,0,0" type="line">b15</Points>
+ <Points W="1" H="11" X="648" Y="67" color="255,0,0" type="line">b16</Points>
+ <Points W="29" H="1" X="619" Y="78" color="255,0,0" type="line">b17</Points>
+ <Points W="1" H="15" X="614" Y="83" color="255,0,0" type="line">b18</Points>
+ <Points W="30" H="1" X="579" Y="78" color="255,0,0" type="line">b19</Points>
+ <Points W="12" H="1" X="579" Y="165" color="255,0,0" type="line">g1</Points>
+ <Points W="1" H="14" X="622" Y="140" color="255,0,0" type="line">g2</Points>
+ <Points W="7" H="1" X="656" Y="165" color="255,0,0" type="line">g3</Points>
+ <Points W="1" H="16" X="667" Y="142" color="255,0,0" type="line">g4</Points>
+ <Points W="63" H="19" X="81" Y="42" color="255,0,0" type="register">r0</Points>
+ <Points W="63" H="19" X="81" Y="127" color="255,0,0" type="register">r1</Points>
+ <Points W="63" H="19" X="198" Y="56" color="255,0,0" type="register">pc</Points>
+ <Points W="57" H="88" X="205" Y="174" color="255,0,0" type="register">decoder</Points>
+ <Points W="44" H="80" X="288" Y="178" color="255,0,0" type="register">mux</Points>
+ <Points W="19" H="63" X="356" Y="187" color="255,0,0" type="register">ir</Points>
+ <Points W="63" H="19" X="318" Y="42" color="255,0,0" type="register">temp1</Points>
+ <Points W="63" H="19" X="415" Y="18" color="255,0,0" type="register">temp2</Points>
+ <Points W="61" H="30" X="371" Y="75" color="255,0,0" type="register">alu</Points>
+ <Points W="61" H="30" X="451" Y="75" color="255,0,0" type="register">shifter</Points>
+ <Points W="63" H="20" X="83" Y="227" color="255,0,0" type="register">r7</Points>
+ <Points W="63" H="19" X="411" Y="124" color="255,0,0" type="register">sr</Points>
+ <Points W="63" H="19" X="617" Y="47" color="255,0,0" type="register">mdr</Points>
+ <Points W="63" H="19" X="591" Y="156" color="255,0,0" type="register">mar</Points>
+ <Points W="63" H="19" X="618" Y="222" color="255,0,0" type="register">iodr</Points>
+ <Points W="63" H="19" X="591" Y="311" color="255,0,0" type="register">ioar</Points>
+    <Points W="12" H="1" X="579" Y="320" color="255,0,0" type="line">k1</Points>
+ <Points W="1" H="14" X="623" Y="295" color="255,0,0" type="line">k2</Points>
+ <Points W="7" H="1" X="657" Y="319" color="255,0,0" type="line">k3</Points>
+ <Points W="1" H="14" X="668" Y="302" color="255,0,0" type="line">k4</Points>
+    <Points W="50" H="1" X="580" Y="181" color="255,0,0" type="line">h1</Points>
+ <Points W="1" H="7" X="630" Y="182" color="255,0,0" type="line">h2</Points>
+ <Points W="16" H="1" X="608" Y="194" color="255,0,0" type="line">h3</Points>
+ <Points W="1" H="9" X="630" Y="198" color="255,0,0" type="line">h4</Points>
+ <Points W="19" H="1" X="630" Y="207" color="255,0,0" type="line">h5</Points>
+ <Points W="17" H="1" X="649" Y="207" color="255,0,0" type="line">h6</Points>
+ <Points W="1" H="12" X="649" Y="208" color="255,0,0" type="line">h6a</Points>
+ <Points W="6" H="1" X="611" Y="231" color="255,0,0" type="line">h6b</Points>
+ <Points W="1" H="8" X="666" Y="198" color="255,0,0" type="line">h7</Points>
+ <Points W="16" H="1" X="671" Y="194" color="255,0,0" type="line">h8</Points>
+ <Points W="1" H="7" X="666" Y="182" color="255,0,0" type="line">h9</Points>
+ <Points W="48" H="1" X="666" Y="181" color="255,0,0" type="line">h10</Points>
+ <Points W="1" H="36" X="715" Y="181" color="255,0,0" type="line">h11</Points>
+ <Points W="1" H="36" X="715" Y="217" color="255,0,0" type="line">h12</Points>
+ <Points W="23" H="1" X="691" Y="253" color="255,0,0" type="line">h13</Points>
+ <Points W="1" H="15" X="687" Y="258" color="255,0,0" type="line">h14</Points>
+ <Points W="33" H="1" X="648" Y="252" color="255,0,0" type="line">h15</Points>
+ <Points W="1" H="11" X="649" Y="241" color="255,0,0" type="line">h16</Points>
+ <Points W="29" H="1" X="619" Y="252" color="255,0,0" type="line">h17</Points>
+ <Points W="1" H="15" X="616" Y="258" color="255,0,0" type="line">h18</Points>
+ <Points W="30" H="1" X="580" Y="252" color="255,0,0" type="line">h19</Points>
+ <Points W="1" H="30" X="22" Y="352" color="255,0,0" type="line">w1</Points>
+    <Points W="1" H="20" X="22" Y="395" color="255,0,0" type="line">w2</Points>
+    <Points W="1" H="110" X="43" Y="361" color="255,0,0" type="line">w3</Points>
+    <Points W="1" H="34" X="53" Y="354" color="255,0,0" type="line">w4</Points>
+    <Points W="1" H="73" X="53" Y="398" color="255,0,0" type="line">w5</Points>
+    <Points W="6" H="1" X="57" Y="392" color="255,0,0" type="line">w6</Points>
+    <Points W="1" H="43" X="82" Y="346" color="255,0,0" type="line">w7</Points>
+    <Points W="5" H="1" X="76" Y="389" color="255,0,0" type="line">w8</Points>
+    <Points W="5" H="1" X="76" Y="394" color="255,0,0" type="line">w9</Points>
+    <Points W="1" H="21" X="82" Y="394" color="255,0,0" type="line">w10</Points>
+    <Points W="262" H="1" X="22" Y="415" color="255,0,0" type="line">w11</Points>
+    <Points W="1" H="79" X="99" Y="345" color="255,0,0" type="line">w12</Points>
+    <Points W="1" H="8" X="104" Y="416" color="255,0,0" type="line">w13</Points>
+    <Points W="1" H="44" X="101" Y="436" color="255,0,0" type="line">w14</Points>
+    <Points W="41" H="1" X="60" Y="480" color="255,0,0" type="line">w15</Points>
+    <Points W="1" H="23" X="37" Y="489" color="255,0,0" type="line">w16</Points>
+    <Points W="1" H="78" X="127" Y="344" color="255,0,0" type="line">w17</Points>
+    <Points W="1" H="6" X="132" Y="416" color="255,0,0" type="line">w18</Points>
+    <Points W="33" H="1" X="129" Y="450" color="255,0,0" type="line">w19</Points>
+    <Points W="1" H="81" X="129" Y="435" color="255,0,0" type="line">w20</Points>
+    <Points W="20" H="1" X="109" Y="516" color="255,0,0" type="line">w21</Points>
+    <Points W="58" H="1" X="109" Y="536" color="255,0,0" type="line">w22</Points>
+    <Points W="1" H="75" X="167" Y="461" color="255,0,0" type="line">w23</Points>
+    <Points W="11" H="1" X="167" Y="461" color="255,0,0" type="line">w24</Points>
+    <Points W="5" H="1" X="173" Y="448" color="255,0,0" type="line">w25</Points>
+    <Points W="1" H="78" X="156" Y="344" color="255,0,0" type="line">w26</Points>
+    <Points W="1" H="7" X="161" Y="416" color="255,0,0" type="line">w27</Points>
+    <Points W="1" H="10" X="158" Y="436" color="255,0,0" type="line">w28</Points>
+    <Points W="5" H="1" X="158" Y="446" color="255,0,0" type="line">w29</Points>
+    <Points W="1" H="44" X="210" Y="345" color="255,0,0" type="line">w30</Points>
+    <Points W="1" H="7" X="213" Y="408" color="255,0,0" type="line">w32</Points>
+    <Points W="1" H="41" X="208" Y="408" color="255,0,0" type="line">w33</Points>
+    <Points W="6" H="1" X="202" Y="449" color="255,0,0" type="line">w34</Points>
+    <Points W="92" H="1" X="208" Y="442" color="255,0,0" type="line">w35</Points>
+    <Points W="1" H="78" X="222" Y="344" color="255,0,0" type="line">w36</Points>
+    <Points W="1" H="78" X="236" Y="344" color="255,0,0" type="line">w37</Points>
+    <Points W="1" H="7" X="227" Y="415" color="255,0,0" type="line">w38</Points>
+    <Points W="1" H="7" X="241" Y="415" color="255,0,0" type="line">w39</Points>
+    <Points W="92" H="1" X="208" Y="419" color="255,0,0" type="line">w40</Points>
+    <Points W="1" H="26" X="224" Y="435" color="255,0,0" type="line">w41</Points>
+    <Points W="27" H="1" X="224" Y="461" color="255,0,0" type="line">w42</Points>
+    <Points W="1" H="13" X="238" Y="435" color="255,0,0" type="line">w43</Points>
+    <Points W="13" H="1" X="238" Y="448" color="255,0,0" type="line">w44</Points>
+    <Points W="24" H="1" X="275" Y="447" color="255,0,0" type="line">w45</Points>
+    <Points W="10" H="1" X="289" Y="424" color="255,0,0" type="line">w46</Points>
+    <Points W="1" H="39" X="288" Y="408" color="255,0,0" type="line">w48</Points>
+    <Points W="1" H="44" X="286" Y="345" color="255,0,0" type="line">w49</Points>
+    <Points W="5" H="1" X="319" Y="421" color="255,0,0" type="line">w50</Points>
+    <Points W="1" H="82" X="324" Y="339" color="255,0,0" type="line">w51</Points>
+    <Points W="23" H="1" X="313" Y="444" color="255,0,0" type="line">w52</Points>
+    <Points W="1" H="38" X="319" Y="445" color="255,0,0" type="line">w53</Points>
+    <Points W="20" H="1" X="298" Y="483" color="255,0,0" type="line">w54</Points>
+    <Points W="96" H="1" X="188" Y="486" color="255,0,0" type="line">w55</Points>
+    <Points W="71" H="1" X="298" Y="488" color="255,0,0" type="line">w56</Points>
+    <Points W="1" H="39" X="329" Y="449" color="255,0,0" type="line">w57</Points>
+    <Points W="1" H="96" X="369" Y="392" color="255,0,0" type="line">w58</Points>
+    <Points W="11" H="1" X="348" Y="446" color="255,0,0" type="line">w59</Points>
+    <Points W="1" H="59" X="360" Y="387" color="255,0,0" type="line">w60</Points>
+    <Points W="1" H="9" X="347" Y="393" color="255,0,0" type="line">w61</Points>
+    <Points W="1" H="20" X="347" Y="362" color="255,0,0" type="line">w62</Points>
+    <Points W="7" H="1" X="329" Y="448" color="255,0,0" type="line">w63</Points>
+    <Points W="9" H="1" X="351" Y="387" color="255,0,0" type="line">w64</Points>
+    <Points W="6" H="1" X="611" Y="231" color="255,0,0" type="line">wiodr</Points>
+    <Points W="35" H="12" X="4" Y="383" color="255,128,0" type="register">decoderio</Points>
+    <Points W="45" H="17" X="15" Y="471" color="255,128,0" type="register">reg</Points>
+    <Points W="99" H="30" X="10" Y="512" color="255,128,0" type="register">devicec</Points>
+    <Points W="24" H="24" X="178" Y="443" color="255,128,0" type="register">status</Points>
+
+    <Points W="46" H="46" X="406" Y="262" color="255,128,0" type="register">FFI</Points>
+    <Points W="24" H="24" X="251" Y="444" color="255,128,0" type="register">im</Points>
+    <Points W="24" H="13" X="333" Y="401" color="255,128,0" type="register">ivn</Points>
+    <Points W="350" H="1" X="10" Y="344" color="255,0,0" type="bus">cbio</Points>
+    <Points W="446" H="1" X="10" Y="337" color="255,0,0" type="bus">irq1</Points>
+    <Points W="1" H="63" X="457" Y="275" color="255,0,0" type="line">irq2</Points>
+    <Points W="6" H="1" X="457" Y="274" color="255,0,0" type="line">irq3</Points>
+    <Points W="43" H="1" X="482" Y="271" color="255,0,0" type="line">irq4</Points>
+    <Points W="15" H="1" X="453" Y="269" color="255,0,0" type="line">irq5</Points>
+    <Points W="20" H="1" X="386" Y="269" color="255,0,0" type="line">irq6</Points>
+    <Points W="20" H="1" X="386" Y="299" color="255,0,0" type="line">irq7</Points>
+    <Points W="45" H="45" X="407" Y="262" color="255,128,0" type="register">f/fi</Points>
+    <Points W="173" H="1" X="578" Y="125" color="255,0,0" type="bus">mcb1</Points>
+    <Points W="1" H="15" X="698" Y="126" color="255,0,0" type="line">mcb2</Points>
+    <Points W="1" H="15" X="742" Y="125" color="255,0,0" type="line">mcb3</Points>
+    <Points W="1" H="25" X="309" Y="259" color="255,0,0" type="line">selmux</Points>
+	<Points W="573" H="320" X="5" Y="6" color="255,0,0" type="register">allbus</Points>
+ <Points W="6" H="1" X="277" Y="193" color="255,0,0" type="line">sel7a</Points>
+ <Points W="6" H="1" X="277" Y="220" color="255,0,0" type="line">sel7b</Points>
+ <Points W="6" H="1" X="277" Y="250" color="255,0,0" type="line">sel7c</Points>
+ <Points W="1" H="98" X="283" Y="193" color="255,0,0" type="line">sel7d</Points>
+ <Points W="27" H="1" X="255" Y="291" color="255,0,0" type="line">sel7e</Points>
+    <Points W="573" H="1" X="5" Y="5" color="255,0,0" type="bus">ab</Points>
+ <Points W="1" H="320" X="578" Y="6" color="255,0,0" type="bus">bn</Points>
+ <Points W="573" H="1" X="5" Y="326" color="255,0,0" type="bus">no</Points>
+ <Points W="1" H="320" X="5" Y="7" color="255,0,0" type="bus">oa</Points>
+ <Points W="61" H="1" X="714" Y="43" color="255,0,0" type="bus">mdb</Points>
+ <Points W="79" H="1" X="673" Y="163" color="255,0,0" type="bus">mab</Points>
+ <Points W="78" H="1" X="715" Y="216" color="255,0,0" type="bus">iodb</Points>
+ <Points W="1" H="144" X="793" Y="217" color="255,0,0" type="bus">iodb1</Points>
+ <Points W="782" H="1" X="10" Y="360" color="255,0,0" type="bus">iodb2</Points>
+ <Points W="110" H="1" X="671" Y="318" color="255,0,0" type="bus">abio</Points>
+ <Points W="1" H="34" X="781" Y="319" color="255,0,0" type="bus">abio1</Points>
+ <Points W="771" H="1" X="9" Y="352" color="255,0,0" type="bus">abio2</Points>
+ <Points W="349" H="1" X="230" Y="5" color="255,0,0" type="bus">cb</Points>
+ <Points W="126" H="1" X="230" Y="5" color="255,0,0" type="bus">ce</Points>
+    <Points W="218" H="1" X="230" Y="5" color="255,0,0" type="bus">cf</Points>
+    <Points W="275" H="1" X="5" Y="5" color="255,0,0" type="bus">ad</Points>
+    
+    <Points W="225" H="1" X="5" Y="5" color="255,0,0" type="bus">ac</Points>
+    <Points W="50" H="1" X="230" Y="5" color="255,0,0" type="bus">cd</Points>
+    <Points W="70" H="1" X="280" Y="5" color="255,0,0" type="bus">de</Points>
+    <Points W="98" H="1" X="350" Y="5" color="255,0,0" type="bus">ef</Points>
+    
+    <Points W="1" H="70" X="578" Y="7" color="255,0,0" type="bus">bg</Points>
+    <Points W="1" H="47" X="578" Y="78" color="255,0,0" type="bus">gh</Points>
+    <Points W="1" H="10" X="578" Y="123" color="255,0,0" type="bus">hi</Points>
+    <Points W="1" H="30" X="578" Y="134" color="255,0,0" type="bus">il</Points>
+    <Points W="1" H="5" X="578" Y="166" color="255,0,0" type="bus">lm</Points>
+    <Points W="1" H="8" X="578" Y="172" color="255,0,0" type="bus">mu</Points>
+    <Points W="1" H="69" X="578" Y="182" color="255,0,0" type="bus">uv</Points>
+    <Points W="1" H="67" X="578" Y="253" color="255,0,0" type="bus">vz</Points>
+    <Points W="1" H="7" X="578" Y="320" color="255,0,0" type="bus">zn</Points>
+    <Points W="1" H="191" X="5" Y="136" color="255,0,0" type="bus">op</Points>
+    <Points W="1" H="28" X="5" Y="108" color="255,0,0" type="bus">pq</Points>
+    <Points W="1" H="57" X="5" Y="51" color="255,0,0" type="bus">qr</Points>
+    <Points W="1" H="28" X="5" Y="23" color="255,0,0" type="bus">rt</Points>
+    <Points W="1" H="17" X="5" Y="6" color="255,0,0" type="bus">ta</Points>
+	<Points W="11" H="1" X="506" Y="120" color="255,0,0" type="line">bs</Points>
+
+
+    <Animation name="SR[Carry] = 1">
+    	<step>
+    	 	<signal>sr,e9</signal>
+     		<label>Wsr = 1</label>    
+    	</step>
+    </Animation>
+    
+    <Animation name="SR[OVERFLOW] = 1">
+    	<step>
+    	 	<signal>sr,e9</signal>
+     		<label>Wsr = 1</label>    
+    	</step>
+    </Animation>
+    
+    <Animation name="SR[NEGATIVE] = 1">
+    	<step>
+    	 	<signal>sr,e9</signal>
+     		<label>Wsr = 1</label>    
+    	</step>
+    </Animation>
+    
+    <Animation name="SR[PARITY] = 1">
+    	<step>
+    	 	<signal>sr,e9</signal>
+     		<label>Wsr = 1</label>    
+    	</step>
+    </Animation>
+    
+    <Animation name="SR[ZERO] = 1">
+    	<step>
+    	 	<signal>sr,e9</signal>
+     		<label>Wsr = 1</label>    
+    	</step>
+    </Animation>
+    
+    <Animation name="SR[INTERRUPT ENABLE] = 1">
+    	<step>
+    	 	<signal>ffi,sr,irq7,irq5,e9</signal>
+     		<label>Wsr = 1</label>    
+    	</step>
+    </Animation>
+    
+    <Animation name="SR[Carry] = 0">
+    	<step>
+    	 	<signal>sr,e9</signal>
+     		<label>Wsr = 1</label>    
+    	</step>
+    </Animation>
+    
+    <Animation name="SR[OVERFLOW] = 0">
+    	<step>
+    	 	<signal>sr,e9</signal>
+     		<label>Wsr = 1</label>    
+    	</step>
+    </Animation>
+    
+    <Animation name="SR[NEGATIVE] = 0">
+    	<step>
+    	 	<signal>sr,e9</signal>
+     		<label>Wsr = 1</label>    
+    	</step>
+    </Animation>
+    
+    <Animation name="SR[PARITY] = 0">
+    	<step>
+    	 	<signal>sr,e9</signal>
+     		<label>Wsr = 1</label>    
+    	</step>
+    </Animation>
+    
+    <Animation name="SR[ZERO] = 0">
+    	<step>
+    	 	<signal>sr,e9</signal>
+     		<label>Wsr = 1</label>    
+    	</step>
+    </Animation>
+    
+    <Animation name="SR[INTERRUPT ENABLE] = 0">
+    	<step>
+    	 	<signal>ffi,sr,irq6,e9</signal>
+     		<label>Wsr = 1</label>    
+    	</step>
+    </Animation>
+    
+    <Animation name="SR[INTERRUPT ENABLE] = 0 ; R7 -> TEMP1">
+    	<step>
+    	 	<signal>ffi,sr,irq6,e9,decoder,a16,a48,a47,a46,a44,a43,a39,a38,a36,a35,a34,r7,sel7a,sel7b,sel7c,sel7d,sel7e,e1,temp1,sel7a,sel7b,sel7c,sel7d,sel7e,allbus,e2</signal>
+     		<label>Wsr = 1; SelR7 = 1; Br = 1; Wt1 = 1</label>
+    	</step>
+    </Animation>
+
+    <Animation name="PC -> MAR">
+     <step>
+     <signal>pc,c3,c2,c1,allbus,g1,g2,mar</signal>
+     <label>Bpc =1; Wmar =1</label>
+     </step>
+  	</Animation>
+  	
+  	<Animation name="[MAR] -> MDR">
+     <step>
+       <signal>mar,g3,g4,mab</signal>
+       <label>Bab =1</label>
+     </step>
+     <step>
+       <signal>mar,g3,g4,mab,mcb2,mcb1</signal>
+       <label>Bab =1; MRD =1</label>
+     </step>
+     <step>
+        <signal>mdb,b11,b10,b9,b8,b7,b6,b6a,b6b,mdr,mar,g3,g4,mab,mcb2,mcb1,b6b</signal>
+        <label>Bab =1; MRD =1; BmdrDbIn =1 ; Wmdr =1</label>
+     </step>
+    </Animation>
+    
+	<Animation name="[MAR] -> MDR ; PC+4 -> PC">
+     <step>
+       <signal>mar,g3,g4,mab,pc,c6</signal>
+       <label>Bab =1 ; INCpc4 = 1</label>
+     </step>
+     <step>
+       <signal>mar,g3,g4,mab,mcb2,mcb1</signal>
+       <label>Bab =1; MRD =1</label>
+     </step>
+     <step>
+        <signal>mdb,b11,b10,b9,b8,b7,b6,b6a,b6b,mdr,mar,g3,g4,mab,mcb2,mcb1,b6b</signal>
+        <label>Bab =1; MRD =1; BmdrDbIn =1 ; Wmdr =1</label>
+     </step>
+    </Animation>
+
+	<Animation name="MDR -> IR">
+     <step>
+      <signal>b16,b17,b18,b19,f14,f16,f17,ir,mdr,allbus,f19a</signal>
+      <label>BmdrIbOut = 1; WIr = 1;</label>
+     </step>
+    </Animation>
+    
+    <Animation name="PC+4 -> PC">
+     <step>
+      <signal>pc,c6</signal>
+      <label>INCpc4 = 1</label>
+     </step>
+    </Animation>
+
+
+
+
+	<Animation name="ALU[SUB]">
+    	<step>
+    	 	<signal>e3,e4,alu,f5b,f5c,fbc,fbb,fba,f4,f3</signal>
+     		<label>Ba = 1; OpCodeAlu = SUB</label>    
+    	</step>
+    </Animation>
+
+    <Animation name="ALU_OUT[ADD] -> I/ODR">
+    	<step>
+    		<signal>e3,e4,alu,e5,e6,e8,fba,fbc,fbb,f5c,f5b,f14c,allbus,h1,h2,h3,h4,h5,h6a,iodr,h6b,f3,f4,temp1,temp2</signal>
+     		<label>Ba = 1; Wiodr =1;OpCodeAlu = ADD;Biodrlbin = 1</label>
+    	</step>
+    </Animation>
+    
+    <Animation name="ALU_OUT[ADD] -> MAR">
+    	<step>
+     		<signal>f3,f4,e3,e4,alu,e5,e6,e8,fba,fbc,fbb,f5c,f5b,f14c,allbus,g1,g2,mar,temp1,temp2</signal>
+     		<label>Ba = 1; Wmar =1;OpCodeAlu = ADD</label>
+    	</step>
+    </Animation>
+    
+    <Animation name="ALU_OUT[ADD] -> MDR">
+    	<step>
+     		<signal>e3,e4,alu,e5,e6,e8,fba,fbc,fbb,f5c,f5b,f14c,allbus,f4,f3,b1,b2,b3,b4,b5,b6a,mdr,b6b,temp1,temp2</signal>
+     		<label>Ba = 1; Wmdr =1; Bmdrlbln = 1; OpCodeAlu = ADD</label>
+    	</step>
+    </Animation>
+    
+    <Animation name="ALU_OUT[ADD] -> PC">
+    	<step>
+     		<signal>f3,f4,fba,fbc,fbb,f5c,f5b,e3,e4,alu,e5,e6,e8,f14c,allbus,c7,c8,c4,c5,pc,temp1,temp2</signal>
+     		<label>Btemp2 = 1; Ba = 1; Wpc = 1; OpCodeAlu = ADD</label>
+    	</step>
+    </Animation>
+
+    <Animation name="ALU_OUT[ADD] -> R1">
+    	<step>
+     		<signal>f3,f4,fba,fbc,fbb,f5c,f5b,e3,e4,alu,e5,e6,e8,e10,selmux,f14c,allbus,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,r1,f4,f3,temp2,temp1</signal>
+     		<label>Btemp2 = 1; Ba = 1; Wr =1; SelMux = 1; OpCodeAlu = ADD</label>
+    	</step>
+    </Animation>
+    
+    <Animation name="ALU_OUT[ADD] -> TEMP2">
+    	<step>
+     		<signal>e3,e4,alu,e5,e6,e8,fba,fbb,fbc,f5c,f5b,f14c,f3,f4,fba,allbus,temp1,temp2</signal>
+     		<label>Ba = 1;BTemp2 = 1;OpCodeAlu = ADD</label>
+    	</step>
+    	<step>
+     		<signal>e4,alu,e5,e6,e8,f14c,lm,il,hi,gh,bg,mu,uv,vz,zn,no,op,pq,qr,rt,ta,f1,f2,temp2,ab</signal>
+     		<label>Ba = 1; Wt2 =1</label>
+    	</step>
+    </Animation>
+    
+    <Animation name="ALU_OUT[ADD_with_CARRY] -> R1">
+    	<step>
+     		<signal>f3,f4,r1,e3,e4,alu,e5,e6,e8,e10,selmux,f14c,allbus,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,temp1,temp2,f5b,f5c,e7,sr,fba,fbb,fbc</signal>
+     		<label>Ba = 1; Wr =1; SelMux = 1; Btemp2 = 1; OpCodeAlu = ADD with Carry Flag</label>
+    	</step>
+    </Animation>
+    
+    <Animation name="ALU_OUT[AND] -> R1">
+    	<step>
+     		<signal>f3,f4,fba,fbc,fbb,f5c,f5b,e3,e4,alu,e5,e6,e8,e10,selmux,f14c,allbus,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,r1,f4,f3,temp2,temp1</signal>
+     		<label>Ba = 1; Wr =1; SelMux = 1; OpCodeAlu = AND; Btemp2 = 1</label>
+    	</step>
+    </Animation>
+    
+    <Animation name="ALU_OUT[NEG] -> R1">
+    	<step>
+     		<signal>fba,fbc,fbb,f5c,f5b,e3,e4,alu,e5,e6,e8,e10,selmux,f14c,allbus,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,r1,f4,f3,temp2,temp1</signal>
+     		<label>Ba = 1; Wr =1; SelMux = 1; OpCodeAlu = NEG; Btemp2 = 1</label>
+    	</step>
+    </Animation>
+    
+    <Animation name="ALU_OUT[NOT] -> R1">
+    	<step>
+     		<signal>fba,fbc,fbb,f5c,f5b,e3,e4,alu,e5,e6,e8,e10,selmux,f14c,allbus,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,r1,f4,f3,temp2,temp1</signal>
+     		<label>Ba = 1; Wr =1; SelMux = 1; OpCodeAlu = NEG; Btemp2 = 1</label>
+    	</step>
+    </Animation>
+    
+    <Animation name="ALU_OUT[OR] -> R1">
+    	<step>
+     		<signal>fba,fbc,fbb,f5c,f5b,e3,e4,alu,e5,e6,e8,e10,selmux,f14c,allbus,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,r1,f4,f3,temp2,temp1</signal>
+     		<label>Ba = 1; Wr =1; SelMux = 1; OpCodeAlu = OR; Btemp2 = 1</label>
+    	</step>
+    </Animation>
+    
+    <Animation name="ALU_OUT[SUB] -> R1">
+    	<step>
+     		<signal>f3,f4,f5c,f5b,r1,e3,e4,alu,e5,e6,e8,e10,selmux,f14c,allbus,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,temp1,temp2</signal>
+     		<label>Ba = 1; Wr =1; SelMux = 1; OpCodeAlu = SUB; Btemp2 = 1</label>
+	    </step>
+    </Animation>
+    
+    <Animation name="ALU_OUT[SUB_with_CARRY] -> R1">
+    	<step>
+     		<signal>f3,f4,r1,e3,e4,alu,e5,e6,e8,e10,selmux,f14c,allbus,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,temp2,fba,fbb,fbc,f5c,f5b,temp1,sr,e7</signal>
+     		<label>Ba = 1; Wr =1; SelMux = 1; OpCodeAlu = SUB with Carry Flag; Btemp2 = 1</label>
+    	</step>
+    </Animation>
+    
+    <Animation name="ALU_OUT[XOR] -> R1">
+    	<step>
+     		<signal>fba,fbc,fbb,f5c,f5b,e3,e4,alu,e5,e6,e8,e10,selmux,f14c,allbus,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,r1,f4,f3,temp2,temp1</signal>
+     		<label>Ba = 1; Wr =1; SelMux = 1; OpCodeAlu = XOR; Btemp2 = 1</label>
+    	</step>
+    </Animation>
+    
+ 	<Animation name="CLEAR -> I/OCB">
+		<step>
+    		<signal>abio,abio1,abio2,w1,decoderio,w2,w11,w26,w27,w25,w28,w29,status,cbio</signal>
+    		<label>F/F STATUS = 0; BioarOut = 1</label>
+   		</step>   
+ 	</Animation>
+ 	
+ 	<Animation name="CLRIM -> I/OCB">
+   		<step>
+    		<signal>abio,abio1,abio2,w1,decoderio,w2,w11,w37,w39,w43,w44,cbio</signal>
+    		<label>BioarOut=1; SETIM = 0;</label>
+   		</step>
+ 	</Animation>
+ 	
+	<Animation name="I/ODR -> MAR">
+   		<step>
+    		<signal>h16,h17,h18,h19,allbus,g1,g2,mar,iodr</signal>
+    		<label>BIodrDbOut = 1; Wmar = 1</label>
+   		</step>
+ 	</Animation>
+
+ 	<Animation name="I/ODR -> MDR">
+   		<step>
+    		<signal>h16,h17,h18,h19,allbus,b1,b2,b3,b4,b5,b6a,mdr,b6b,iodr</signal>
+    		<label>BIodrDbOut = 1; Bmdrlbln = 1;Wmdr = 1</label>
+   		</step>
+ 	</Animation>
+ 	
+ 	<Animation name="I/ODR -> REG">
+   		<step>
+    		<signal>iodr,h16,h15,h14,h13,h12,iodb,iodb1,iodb2,w3,k3,k4,abio,abio1,abio2,ioar</signal>
+    		<label>BioarOut =1; BiodrDbout = 1</label>
+   		</step>
+   		<step>
+    		<signal>iodr,h16,h15,h14,h13,h12,iodb,iodb1,iodb2,w3,k3,k4,abio,abio1,abio2,ioar,w1,w2,w11,w13,cbio,w12,w14,w15,reg</signal>
+    		<label>I/OWR -> I/OCB</label>
+   		</step>
+ 	</Animation>
+ 	
+ 	<Animation name="I/ODR -> R1">
+   		<step>
+    		<signal>h16,h17,h18,h19,allbus,ir,f18,mux,f20,f21,f22,decoder,a17,a30,a29,a27,a28,a26,a18,a19,r1,iodr</signal>
+    		<label>BIodrDbOut = 1; Wr = 1; SelMux = 1</label>
+   		</step>
+ 	</Animation>
+ 	
+ 	<Animation name="I/ODR -> TEMP2">
+   		<step>
+    		<signal>h16,h17,h18,h19,allbus,f1,f2,temp2,iodr</signal>
+    		<label>BIodrDbOut = 1; Wt2 = 1</label>
+   		</step>
+ 	</Animation>
+ 	
+    <Animation name="IR[DEVICE] -> I/OAR">
+    	<step>
+     		<signal>ir1,ir2,ir3,f14,ir,allbus,e10,k1,k2,ioar</signal>
+     		<label>Bir = 1; Wioar = 1;</label>
+    	</step>
+    </Animation>
+    
+    <Animation name="MDR -> [MAR]">
+     	<step>
+      		<signal>mdr,b16,b15,b14,b13,b12,mdb,mar,g3,g4</signal>
+      		<label>Bab = 1; BmdrDbOut = 1</label>
+     	</step>
+     	<step>
+      		<signal>mdr,b16,b15,b14,b13,b12,mar,g3,g4,mab,mcb1,mcb3,mdb</signal>
+      		<label>Bab = 1; BmdrDbOut = 1; MEMwr</label>
+     	</step>
+   	</Animation>
+   	
+  	<Animation name="MDR -> I/ODR">
+ 		<step>
+    		<signal>allbus,mdr,b16,b17,b18,b19,h1,h2,h3,h4,h5,h6a,h6b,iodr</signal>
+    		<label>BiodrlbOut = 1;Wiodr=1; BmdrlbOut = 1</label>
+   		</step>
+  	</Animation>
+  	
+    <Animation name="MDR -> IR">
+    	<step>
+     		<signal>b16,b17,b18,b19,f14,f16,f17,ir,mdr,allbus,f19a</signal>
+     		<label>BmdrIbOut = 1; WIr = 1;</label>
+    	</step>
+    </Animation>
+    
+    <Animation name="MDR -> MAR">
+     	<step>
+      		<signal>mdr,b16,b17,b18,b19,allbus,g1,g2,mar</signal>
+      		<label>BmdrIbOut =1; Wmar = 1;</label>
+     	</step>
+    </Animation>
+    
+    <Animation name="MDR -> PC">
+    	 <step>
+    		<signal>b16,b17,b18,b19,allbus,c7,c8,c4,c5,pc,mdr</signal>
+    		<label>BmdrIbOut =1; Wpc =1;</label>
+  		</step>
+    </Animation>
+    
+    <Animation name="MDR -> R0">
+     	<step> 
+        	<signal>r0,selmux,mdr,b16,b17,b18,b19,allbus,a1,a2,ir,f19,mux,f20,f21,f22,decoder,a15,a14,a13,a8,a17,a7,a9,a5</signal>
+        	<label>Selmux = 0; BmdrIbOut =1; Wr = 1</label>
+    	</step>
+    </Animation>
+    
+    <Animation name="MDR -> R1">
+    	<step>
+        	<signal>r1,selmux,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,a17,mdr,b16,b17,b18,b19,allbus,a18,a19</signal>
+        	<label>Selmux = 1; BmdrIbOut =1; Wr </label>
+	    </step>
+    </Animation>
+    
+    <Animation name="MDR -> SR">
+     	<step>
+      		<signal>mdr,b16,b17,b18,b19,allbus,f10,sr,e9</signal>
+      		<label>BmdrIbOut = 1; Wsr = 1</label>
+     	</step>
+    </Animation>
+
+
+	<Animation name="MDR -> TEMP1">
+	 <step>
+	  <signal>mdr,b16,b17,b18,b19,allbus,e1,e2,temp1</signal>
+	  <label>BmdrIbOut =1; Wt1 = 1;</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="MDR -> TEMP2">
+	 <step>
+	  <signal>mdr,b16,b17,b18,b19,allbus,f1,f2,temp2</signal>
+	  <label>BmdrIbOut =1; Wt2 = 2;</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="PC -> I/ODR ; PC -> MAR">
+	 <step>
+	  <signal>allbus,pc,c2,c1,c3,h1,h2,h3,h4,h5,h6a,h6b,iodr,g1,g2,mar</signal>
+	  <label>Bpc =1;Wiodr = 1;Biodrlbln = 1; Wmar =1</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="PC -> MAR ; PC -> TEMP2">
+	 <step>
+	  <signal>pc,c3,c2,c1,allbus,g1,g2,mar,f1,f2,temp2</signal>
+	  <label>Bpc =1; Wmar =1; Wt2 = 1</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="PC -> MAR">
+	 <step>
+	  <signal>pc,c3,c2,c1,allbus,g1,g2,mar</signal>
+	  <label>Bpc =1; Wmar =1</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="PC -> MDR">
+	 <step>
+	  <signal>pc,c3,c2,c1,allbus,b1,b2,b3,b4,b5,b6a,b6b,mdr</signal>
+	  <label>Bpc = 1; Bmdrlbln = 1; Wmdr = 1</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="PC -> TEMP2">
+	 <step>
+	  <signal>pc,c3,c2,c1,allbus,f1,f2,temp2</signal>
+	  <label>Bpc =1; Wt2 = 1</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="PC -> TEMP1">
+	 <step>
+	  <signal>pc,c3,c2,c1,allbus,e1,e2,temp1</signal>
+	  <label>Bpc =1; Wt2 = 1</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="PC+4 -> PC">
+	 <step>
+	  <signal>pc,c6,c3,c2,c1,allbus,c7,c8,c4,c5,pc</signal>
+	  <label>INCpc4 = 1; Bpc = 1; Wpc = 1;</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="R7 -> MAR">
+	 <step>
+	  <signal>decoder,a16,a48,a47,a46,a44,a43,a39,a38,a36,a35,a34,r7,allbus,g1,g2,mar,sel7a,sel7b,sel7c,sel7d,sel7e</signal>
+	  <label>SelR7 = 1; Br = 1; Wmar = 1;</label>  
+	 </step>
+	</Animation>
+	
+	<Animation name="R7 -> TEMP1">
+	 <step>
+	  <signal>decoder,a16,a48,a47,a46,a44,a43,a39,a38,a36,a35,a34,r7,sel7a,sel7b,sel7c,sel7d,sel7e,e1,temp1,sel7a,sel7b,sel7c,sel7d,sel7e,allbus,e2</signal>
+	  <label>SelR7 = 1; Br = 1; Wt1 = 1;</label>  
+	 </step>
+	</Animation>
+	
+	<Animation name="REG -> I/ODR">
+	 <step>
+	  <signal>cbio,w7,w8,ioar,k3,k4,abio,abio1,abio2,w1,w2,w11,w10,w9,w7,w8,decoderio</signal>
+	  <label>I/ORd -> I/OCb; BioarOut = 1;</label>
+	 </step>
+	 <step>
+	  <signal>h11,h10,h9,reg,w5,w6,w4,iodb1,iodb2,iodb,h8,h7,h6,h6a,h6b,iodr</signal>
+	  <label>BiodrDbin = 1; Wiodr = 1</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="R0 -> I/OAR">
+	 <step>
+	  <signal>r0,selmux,ir,f19,mux,f20,f21,f22,decoder,a16,a15,a14,a13,a12,a10,a11,a6,a3,a4,allbus,k1,k2,ioar</signal>
+	  <label>SelMux = 0; Br = 1; Wioar = 1;</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="R0 -> I/ODR">
+	 <step>
+	  <signal>r0,selmux,ir,f19,mux,f20,f21,f22,decoder,a16,a15,a14,a13,a12,a10,a11,a6,a3,a4,allbus,h1,h2,h3,h4,h5,h6a,h6b,iodr</signal>
+	  <label>SelMux = 0; Br = 1; Wiodr = 1;</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="R0 -> MAR ; R0 -> TEMP1">
+	 <step>
+	  <signal>r0,selmux,a16,a15,a14,a13,a12,a10,a11,a6,a3,a4,allbus,g1,g2,ir,f19,mux,f20,f21,f22,decoder,e1,e2,temp1,mar</signal>
+	  <label>SelMux = 0; Br = 1; Wmar = 1; Wt1 = 1;</label>  
+	 </step>
+	</Animation>
+	
+	<Animation name="R0 -> MAR">
+	 <step>
+	  <signal>r0,selmux,a16,a15,a14,a13,a12,a10,a11,a6,a3,a4,allbus,g1,g2,ir,f19,mux,f20,f21,f22,decoder,mar</signal>
+	  <label>SelMux = 0; Br = 1; Wmar = 1;</label>  
+	 </step>
+	</Animation>
+	
+	<Animation name="R0 -> MDR">
+	 <step>
+	  <signal>r0,a16,selmux,a15,a14,a13,a12,a10,a11,a6,a3,a4,allbus,b1,b2,b3,b4,b5,b6,b6a,ir,f19,mux,f20,f21,f22,decoder,mdr,b6b</signal>
+	  <label>SelMux = 0; Br = 1; BmdrIbIn = 1 </label>
+	 </step>
+	</Animation>
+	
+	<Animation name="R0 -> SR">
+	 <step>
+	  <signal>r0,selmux,ir,f19,mux,f20,f21,f22,decoder,a16,a15,a14,a13,a12,a10,a11,a6,a3,a4,allbus,sr,f10,e9</signal>
+	  <label>SelMux = 0; Br = 1; Wsr = 1;</label>
+	 </step>
+	</Animation>    
+	
+	<Animation name="R0 -> TEMP1">
+	 <step>
+	  <signal>r0,selmux,a16,a15,a14,a13,a12,a10,a11,a6,a3,a4,allbus,e1,e2,temp1,ir,f19,mux,f20,f21,f22,decoder</signal>
+	  <label>SelMux = 0; Br = 1; Wt1 = 1;</label>    
+	 </step>
+	</Animation>
+	
+	<Animation name="R0 -> TEMP2">
+	 <step>
+	  <signal>r0,selmux,a16,a15,a14,a13,a12,a10,a11,a6,a3,a4,allbus,f1,f2,temp2,ir,f19,mux,f20,f21,f22,decoder</signal>
+	  <label>SelMux = 0; Br = 1; Wt2 = 1;</label>  
+	 </step>
+	</Animation>
+	
+	<Animation name="R1 -> I/OAR">
+	 <step>
+	  <signal>r1,allbus,selmux,a30,a31,a16,a25,a24,a23,a22,a20,a21,ir,f18,mux,f20,f21,f22,decoder,k2,k1,ioar</signal>
+	  <label>SelMux = 1; Br = 1 ; Wioar = 1;</label>  
+	 </step>
+	</Animation>
+	
+	<Animation name="R1 -> MAR ; R1 -> TEMP1">
+	 <step>
+	  <signal>r1,selmux,a30,a31,a25,a24,a23,a22,a20,a21,allbus,g1,g2,a16,ir,f18,mux,f20,f21,f22,decoder,e1,e2,mar,temp1</signal>
+	  <label>SelMux = 1; Br = 1; Wmar = 1; Wt1 = 1</label>  
+	 </step>
+	</Animation>
+	
+	<Animation name="R1 -> MAR">
+	 <step>
+	  <signal>r1,selmux,a30,a31,a25,a24,a23,a22,a20,a21,allbus,g1,g2,a16,ir,f18,mux,f20,f21,f22,decoder,mar</signal>
+	  <label>SelMux = 1; Br = 1; Wmar = 1;</label>  
+	 </step>
+	</Animation>
+	
+	<Animation name="R1 -> MDR">
+	 <step>
+	  <signal>r1,a30,selmux,a31,a25,a24,a23,a22,a20,a21,allbus,b1,b2,b3,b4,b5,b6,b6a,b6b,a16,ir,f18,mux,f20,f21,f22,decoder,mdr</signal>
+	  <label>SelMux = 1; Br = 1; BmdrIbIn = 1 Wmdr = 1</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="R1 -> PC">
+	 <step>
+	  <signal>r1,selmux,a30,a31,a16,a25,a24,a23,a22,a20,a21,ir,f18,mux,f20,f21,f22,decoder,allbus,c7,c8,c4,c5,pc</signal>
+	  <label>SelMux = 1; Br = 1 ; Wpc = 1;</label>  
+	 </step>
+	</Animation>
+	
+	<Animation name="R1 -> TEMP1">
+	 <step>
+	  <signal>r1,selmux,a30,a31,a16,a25,a24,a23,a22,a20,a21,allbus,e1,e2,temp1,ir,f18,mux,f20,f21,f22,decoder</signal>
+	  <label>SelMux = 1; Br = 1 ; Wt1 = 1;</label>  
+	 </step>
+	</Animation>
+	
+	<Animation name="R1 -> TEMP2">
+	 <step>
+	  <signal>r1,selmux,ir,f18,mux,f20,f21,f22,decoder,a30,a31,a25,a24,a23,a22,a20,a21,a16,allbus,f1,f2,temp2</signal>
+	  <label>SelMux = 1; Wt2 = 1; Br = 1</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="R0 -> I/OAR">
+	 <step>
+	  <signal>r0,selmux,ir,f19,mux,f20,f21,f22,decoder,a16,a15,a14,a13,a12,a10,a11,a6,a3,a4,allbus,k1,k2,ioar</signal>
+	  <label>SelMux = 0; Br = 1; Wioar = 1;</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="S -> ALU ; ALU_OUT[ADD] -> R7">
+	 <step>
+	  <signal>f2a,f2b,f2c,f5c,f5b,alu,temp1,e3,e4,e5,e6,e8,e10,f14,allbus,sel7a,sel7b,sel7c,sel7d,sel7e,decoder,a46,a47,a48,a44,a40,a41,a42,a37,r7,a32,a33,a17</signal>
+	  <label>Ba = 1; Wr =1; SelR7 = 1; OpCodeAlu = ADD</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="4 -> ALU ; ALU_OUT[ADD] -> R7">
+	 <step>
+	  <signal>f4a,f4b,f4c,f5c,f5b,alu,temp1,e3,e4,e5,e6,e8,e10,f14,allbus,sel7a,sel7b,sel7c,sel7d,sel7e,decoder,a46,a47,a48,a44,a40,a41,a42,a37,r7,a32,a33,a17</signal>
+	  <label>Ba = 1; Wr =1; SelR7 = 1; OpCodeAlu = ADD</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="S -> ALU ; ALU_OUT[ADD] -> R0">
+	 <step>
+	  <signal>r0,f5c,f5b,selmux,f4a,f4b,f4c,f4d,f5b,e3,alu,e4,alu,e5,e6,e8,e10,f14c,allbus,a1,a2,a17,ir,f19,mux,f20,f21,f22,decoder,a15,a14,a13,a8,a5,a9,a7,temp1</signal>
+	  <label> Balu4 = 1; Ba = 1; Wr =1; SelMux = 0; OpCodeAlu = ADD </label>
+	 </step>
+	</Animation>
+	
+	<Animation name="S -> ALU ; ALU_OUT[ADD] -> R1 ; ALU_OUT[ADD] -> MAR">
+	 <step>
+	  <signal>r1,f2b,f2c,f2a,f5c,f5b,e4,alu,e3,e5,e6,e8,e10,selmux,f14,allbus,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,g1,g2,mar,temp1</signal>
+	  <label>Ba = 1; Wr =1; SelMux = 1; OpCodeAlu = ADD ; Wmar = 1; </label>
+	 </step>
+	</Animation> 
+	
+	<Animation name="S -> ALU ; ALU_OUT[ADD] -> R1">
+	 <step>
+	  <signal>r1,f2b,f2c,f2a,f5c,f5b,e4,alu,e3,e5,e6,e8,e10,selmux,f14c,allbus,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,temp1</signal>
+	  <label>Ba = 1; Wr =1; SelMux = 1; OpCodeAlu = ADD</label>
+	 </step>
+	</Animation> 
+	
+	<Animation name="S -> ALU ; ALU_OUT[SUB] -> R7 ; ALU_OUT[SUB] -> MAR">
+	 <step>
+	  <signal>f2a,f2b,f2c,f5c,f5b,alu,temp1,e3,e4,e5,e6,e8,e10,f14,allbus,sel7a,sel7b,sel7c,sel7d,sel7e,decoder,a46,a47,a48,a44,a40,a41,a42,a37,r7,a32,a33,a17,g1,g2,mar</signal>
+	  <label>Ba = 1; Wr =1; SelR7 = 1; OpCodeAlu = SUB; Wmar = 1</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="4 -> ALU ; ALU_OUT[SUB] -> R7 ; ALU_OUT[SUB] -> MAR">
+	 <step>
+	  <signal>f4a,f4b,f4c,f5c,f5b,alu,temp1,e3,e4,e5,e6,e8,e10,f14,allbus,sel7a,sel7b,sel7c,sel7d,sel7e,decoder,a46,a47,a48,a44,a40,a41,a42,a37,r7,a32,a33,a17,g1,g2,mar</signal>
+	  <label>Ba = 1; Wr =1; SelR7 = 1; OpCodeAlu = SUB; Wmar = 1</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="S -> ALU ; ALU_OUT[SUB] -> R7">
+	 <step>
+	  <signal>f2a,f2b,f2c,f5c,f5b,alu,temp1,e3,e4,e5,e6,e8,e10,f14,allbus,sel7a,sel7b,sel7c,sel7d,sel7e,decoder,a46,a47,a48,a44,a40,a41,a42,a37,r7,a32,a33,a17</signal>
+	  <label>Ba = 1; Wr =1; SelR7 = 1; OpCodeAlu = SUB</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="4 -> ALU ; ALU_OUT[SUB] -> R7">
+	 <step>
+	  <signal>f4a,f4b,f4c,f5c,f5b,alu,temp1,e3,e4,e5,e6,e8,e10,f14,allbus,sel7a,sel7b,sel7c,sel7d,sel7e,decoder,a46,a47,a48,a44,a40,a41,a42,a37,r7,a32,a33,a17</signal>
+	  <label>Ba = 1; Wr =1; SelR7 = 1; OpCodeAlu = SUB</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="S -> ALU ; ALU_OUT[SUB] -> R0 ; ALU_OUT[SUB] -> MAR">
+	 <step>
+	  <signal>selmux,f2a,f2b,f2c,f5b,f5c,e3,alu,e4,alu,e5,e6,e8,e10,f14,allbus,a15,a14,a13,a8,a9,a7,a5,a1,a2,a17,ir,f19,mux,f20,f21,f22,decoder,r0,g1,g2,mar,temp1</signal>
+	  <label> Wmar = 1; Ba = 1; Wr =1; SelMux = 0; OpCodeAlu = SUB </label>
+	 </step>
+	</Animation>
+	
+	<Animation name="S -> ALU ; ALU_OUT[SUB] -> R0">
+	 <step>
+	  <signal>selmux,f2a,f2b,f2c,f5b,f5c,e3,alu,e4,alu,e5,e6,e8,e10,f14,allbus,a15,a14,a13,a8,a9,a7,a5,a1,a2,a17,ir,f19,mux,f20,f21,f22,decoder,r0,temp1</signal>
+	  <label> Balu2 = 1; Ba = 1; Wr =1; SelMux = 0; OpCodeAlu = SUB </label>
+	 </step>
+	</Animation>
+	
+	<Animation name="S -> ALU ; ALU_OUT[SUB] -> R1 ; ALU_OUT[SUB] -> MAR">
+	 <step>
+	  <signal>selmux,f2a,f2b,f2c,f5b,f5c,e3,alu,e4,alu,e5,e6,e8,e10,f14,allbus,a30,a29,a28,a27,a26,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,r1,g1,g2,mar,temp1</signal>
+	  <label> Balu2 = 1; Ba = 1; Wr =1; SelMux = 1; OpCodeAlu = SUB </label>
+	 </step>
+	</Animation>
+	
+	<Animation name="SETIM -> I/OCB">
+	 <step>
+	  <signal>abio,abio1,abio2,w1,decoderio,w2,w11,w36,w38,w41,w42,w45,im,cbio,ioar,k3,k4</signal>
+	  <label>F/F IM = 1; BioarOut = 1</label>
+	 </step>   
+	</Animation>
+	
+	<Animation name="SHIFTER_OUT[ARITMETIC DX] -> R1">
+	 <step>
+	  <signal>r1,selmux,f14c,allbus,f9,f7,f6,shifter,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,temp2,f3,f4,f5,f5a,bs</signal>
+	  <label>Ba=1; Bs=1; Wr=1; SelMux=1; Shifter_Opcode[ARITMETIC_DX]</label>
+	 </step>
+	</Animation> 
+	
+	<Animation name="SHIFTER_OUT[ARITMETIC SX] -> R1">
+	 <step>
+	  <signal>r1,selmux,f14c,allbus,f9,f7,f6,shifter,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,temp2,f3,f4,f5,f5a,bs</signal>
+	  <label>Ba=1; Bs=1; Wr=1; SelMux=1; Shifter_Opcode[ARITMETIC_SX]</label>
+	 </step>
+	</Animation> 
+	
+	<Animation name="SHIFTER_OUT[LOGIC DX] -> R1">
+	 <step>
+	  <signal>r1,selmux,f14c,allbus,f9,f7,f6,shifter,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,temp2,f3,f4,f5,f5a,bs</signal>
+	  <label>Ba=1; Bs=1; Wr=1; SelMux=1; Shifter_Opcode[LOGIC_DX]</label>
+	 </step>
+	</Animation> 
+	
+	<Animation name="SHIFTER_OUT[LOGIC SX] -> R1">
+	 <step>
+	  <signal>r1,selmux,f14c,allbus,f9,f7,f6,shifter,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,temp2,f3,f4,f5,f5a,bs</signal>
+	  <label>Ba=1; Bs=1; Wr=1; SelMux=1; Shifter_Opcode[LOGIC_SX]</label>
+	 </step>
+	</Animation> 
+	
+	<Animation name="SHIFTER_OUT[ROTATE DX] -> R1">
+	 <step>
+	  <signal>r1,selmux,f14c,allbus,f9,f7,f6,shifter,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,temp2,f3,f4,f5,f5a,bs</signal>
+	  <label>Ba=1; Bs=1; Wr=1; SelMux=1; Shifter_Opcode[ROTATE_DX]</label>
+	 </step>
+	</Animation> 
+	
+	<Animation name="SHIFTER_OUT[ROTATE SX] -> R1">
+	 <step>
+	  <signal>r1,selmux,f14c,allbus,f9,f7,f6,shifter,a18,a19,a17,ir,f18,mux,f20,f21,f22,decoder,a30,a29,a28,a27,a26,temp2,f3,f4,f5,f5a,bs</signal>
+	  <label>Ba=1; Bs=1; Wr=1; SelMux=1; Shifter_Opcode[ROTATE_SX]</label>
+	 </step>
+	</Animation> 
+	
+	<Animation name="SHIFTER_OUT[SHIFT_0] -> MAR">
+	 <step>
+	  <signal>mar,temp2,f3,f4,f5,f5a,f6,f7,f9,f14b,allbus,g1,g2,mar,shifter,bs</signal>
+	  <label>Shifter_Opcode[000000]; Wmar = 1; Bs = 1;</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="SHIFTER_OUT[SHIFT_0] -> MDR">
+	 <step>
+	  <signal>mdr,temp2,f3,f4,f5,f5a,f6,f7,f9,f14b,allbus,b1,b2,b3,b4,b5,b6a,b6b,shifter,bs</signal>
+	  <label>BmdrIbin = 1; Shifter_Opcode[000000]; Wmdr = 1; Bs = 1;</label>
+	 </step>
+	</Animation>    
+	
+	<Animation name="SR -> MDR">
+	 <step>
+	  <signal>sr,f11,f12,f13,f14,allbus,b1,b2,b3,b4,b5,b6a,b6b,mdr</signal>
+	  <label>Bsr = 1; BmdrIbIn = 1; Wmdr = 1</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="SR -> R0">
+	 <step>
+	  <signal>ir,selmux,f19,mux,f20,f21,f22,f14,f11,f13,f12,decoder,allbus,a1,a2,r0,a15,a14,a13,a8,a9,a7,a17,a5,sr</signal>
+	  <label>SelMux = 0; Wr = 1; Bsr = 1;</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="START -> I/OCB">
+	 <step>
+	  <signal>abio,abio1,abio2,w1,decoderio,w2,w11,w17,w18,w20,w21,w19,cbio,ioar,k3,k4</signal>
+	  <label>STARTdev; BioarOut = 1</label>
+	 </step>   
+	</Animation>
+	
+	<Animation name="TEMP2 -> R1">
+	 <step>
+	  <signal>ir,selmux,f18,mux,f20,f21,f22,decoder,temp2,f3,f4,f5,f5a,f6,f7,f9,f14b,allbus,a17,a18,a19,r1,a26,a27,a28,a29,a30,shifter,bs</signal>
+	  <label>SelMux = 1; Shifter_Opcode[000000]; Wr = 1; Bs = 1;</label>
+	 </step>
+	</Animation>
+	
+	<Animation name="TEMP2 -> PC">
+	 <step>
+	  <signal>temp2,f3,f4,f5,f5a,f6,f7,f9,f14b,allbus,shifter,bs,c7,c8,c4,c5</signal>
+	  <label>Shifter_Opcode[000000]; Wpc = 1; Bs = 1;</label>
+	 </step>
+	</Animation>
+    
+    <Animation name="I/ODB -> PC">
+	 <step>
+	  <signal>iodb1,iodb2,iodb,h11,h10,h9,h8,h7,h6,h6a,h6b,iodr</signal>
+	  <label>BiodrDbin = 1</label>
+	 </step>
+	<step>
+      <signal>h16,h17,h18,h19,allbus,c7,c8,c4,c5,pc,mdr,iodr</signal>
+      <label>BmdrIbOut =1; Wpc =1;</label>
+  	</step>
+	</Animation>
+	
+	<Animation name="COMPLETE OF DEVICE CONTROLLER">
+	   <step>
+	    <signal>w22,w23,w24,w45,w46,w48,im,FFI,irq5,w58,w56,w57,w63,w64,w52</signal>
+	    <label>Complete = 1</label>
+	   </step>
+	   <step>
+	    <signal>w22,w23,w24,w34,w33,w40,w45,w46,w48,w35,w50,w51,status,im,irq1,irq2,irq3,irq5,irq4,FFI</signal>
+	    <label>Complete = 1; Status = 1;</label>
+	   </step>
+	 </Animation>
+	 
+	<Animation name="IACK IN">
+	 <step>
+	  <signal>w22,w23,w24,w34,w33,w40,w45,w46,w48,w35,w50,w51,status,irq1,irq2,irq3,im,w58,w56,w57,w63,w64,w52,w59,w60,w63,w61,w62,ivn</signal>
+	  <label>Iack_IN</label>
+	 </step>
+	</Animation>
+	 
+	<Animation name="IACK IN ; IVN -> I/ODR">
+	 <step>
+	  <signal>w22,w23,w24,w34,w33,w40,w45,w46,w48,w35,w50,w51,status,irq1,irq2,irq3,im,w58,w56,w57,w63,w64,w52,w59,w60,w63,w61,w62,ivn,iodb2,iodb1,iodb,h11,h10,h9,h8,h7,h6,h6a,wiodr,iodr</signal>
+	  <label>Iack_IN; BIodrDbIn = 1; Wiodr = 1</label>
+	 </step>
+	</Animation>
+
+	<Animation name="IVN -> I/ODR">
+	   <step>
+	    <signal>w22,w23,w24,w34,w33,w40,w45,w46,w48,w35,w50,w51,status,irq1,irq2,irq3,im,w58,w56,w57,w63,w64,w52,w59,w60,w63,w61,w62,ivn,iodb2,iodb1,iodb,h11,h10,h9,h8,h7,h6,h6a,wiodr,iodr</signal>
+	    <label>BIodrDbIn = 1</label>
+	   </step>
+	 </Animation>
+
+	<Animation name="SHIFTER_OUT[SX,2] -> MAR">
+	 <step>
+	  <signal>mar,temp2,f3,f4,f5,f5a,f6,f7,f9,f14b,allbus,g1,g2,mar,shifter,bs</signal>
+	  <label>Shifter_Opcode[000010]; Wmar = 1; Bs = 1;</label>
+	 </step>
+	</Animation>
+        
+</LeoWeb>
